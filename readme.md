@@ -4,7 +4,7 @@
 
 Learning project.
 
-https://www.youtube.com/watch?v=G09Ul4sdwkw
+According to instruction in [YouTube lesson](https://www.youtube.com/watch?v=G09Ul4sdwkw).
 
 ## Build
 
